@@ -1,5 +1,4 @@
 Start /WAIT /B Winget install "Microsoft XNA Framework Redistributable Refresh" REM *Needs alone time, no other install*
-Start /WAIT /B Winget install "Microsoft.VisualStudio.2022.Community"
 
 REM Install all of the VC++ Redistributables
 Start /WAIT /B Winget install "Microsoft Visual C++ 2005 Redistributable"
